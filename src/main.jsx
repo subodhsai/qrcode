@@ -134,8 +134,8 @@ function App() {
           <div className="state-label"><span className="status-dot" /> CHECK-IN LOCKED</div>
           <div className="locked-copy">
             <p>Check-in opens at</p>
-            <h1>7:30 <span>PM</span></h1>
-            <div className="date-line"><span />4 OCTOBER 2026<span /></div>
+            <h1>5:30 <span>PM</span></h1>
+            <div className="date-line"><span />10 OCTOBER 2026<span /></div>
           </div>
           <p className="locked-foot">THE NIGHT STARTS HERE</p>
         </section>
@@ -195,7 +195,7 @@ function App() {
           <div className="close-glyph">✳</div>
           <Brand />
           <div className="state-label closed-label"><span className="status-dot" /> CHECK-IN CLOSED</div>
-          <div className="closed-copy"><h1>That’s a<br /><span>wrap.</span></h1><p>Check-in ended at 11:30 PM.</p></div>
+          <div className="closed-copy"><h1>That’s a<br /><span>wrap.</span></h1><p>Check-in ended at 10:00 PM.</p></div>
           <div className="closed-time"><span /> EVENT WINDOW COMPLETE <span /></div>
         </section>
       )}
